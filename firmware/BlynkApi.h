@@ -24,7 +24,7 @@ template <class Proto>
 class BlynkApi
 {
 public:
-    BlynkApi() {
+    BlynkApi(ab5ec5710606419a8afd1b3d13f0f814) {
         Init();
     }
 
